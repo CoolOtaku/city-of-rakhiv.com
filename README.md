@@ -17,11 +17,11 @@ The project visualizes the work of the site (landing) with publications for tour
 #
 ## Screenshots
 <p>
-  <img src="screens/1.png" height="500px"/>
-  <img src="screens/2.png" height="500px"/>
-  <img src="screens/3.png" height="500px"/>
-  <img src="screens/4.png" height="500px"/>
-  <img src="screens/5.png" height="500px"/>
+  <img src="screens/1.png" height="20%"/>
+  <img src="screens/2.png" height="20%"/>
+  <img src="screens/3.png" height="20%"/>
+  <img src="screens/4.png" height="20%"/>
+  <img src="screens/5.png" height="20%"/>
 </p>
 
 #
