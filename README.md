@@ -29,13 +29,17 @@ The project visualizes the work of the site (landing) with publications for tour
 <b>EN:</b>
 - Using Bootstrap (front-end framework)
 - Using a third-party template for site layout (built on Bootstrap)
+- Using a MySQL database
 - Creating your own API
+- Authorization through Google
 - Navigation on the site
 
 <b>UA:</b>
 - Використання Bootstrap (front-end framework)
 - Використання стороннього шаблону для макета сайту (на основі Bootstrap)
+- Використання бази даних MySQL
 - Створення власного API
+- Авторизація через Google
 - Навігація по сайту
 #
 ## License
