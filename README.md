@@ -32,7 +32,7 @@ The project visualizes the work of the site (landing) with publications for tour
 - Using a MySQL database
 - Creating your own API
 - Authorization through Google
-- Navigation on the site
+- Search for information and navigation on the site
 
 <b>UA:</b>
 - Використання Bootstrap (front-end framework)
@@ -40,7 +40,7 @@ The project visualizes the work of the site (landing) with publications for tour
 - Використання бази даних MySQL
 - Створення власного API
 - Авторизація через Google
-- Навігація по сайту
+- Пошук інформації та навігація по сайту
 #
 ## License
 ```
