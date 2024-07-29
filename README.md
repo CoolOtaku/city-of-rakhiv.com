@@ -1,18 +1,18 @@
-<p align="center"><img width="128" height="128" src="public/images/logo.png" /></p>
+<p align="center"><img width="128" height="128" src="public/images/logo.png"/></p>
 <h1 align="center">city-of-rakhiv</h1>
 
 ## Description
 <b>EN:</b>
 
-This is a revised version of the course project that was ordered from me ([from-tsipserai-to-the-city-of-rakhiv](https://github.com/CoolOtaku/from-tsipserai-to-the-city-of-rakhiv) ).
+This is a revised version of the course project that was ordered from me ([from-tsipserai-to-the-city-of-rakhiv](https://github.com/CoolOtaku/from-tsipserai-to-the-city-of-rakhiv)).
 
-The project visualizes the work of the site (landing) with publications for tourists for the city of Rakhiv. Using its own API.
+The project visualizes the work of the site (landing) with publications for tourists for the city of **Rakhiv**. Using its own **API**.
 
 <b>UA:</b>
 
 Це доопрацьована версія курсового проекту який в мене заказали ([from-tsipserai-to-the-city-of-rakhiv](https://github.com/CoolOtaku/from-tsipserai-to-the-city-of-rakhiv)).
 
-Проект візуалізує роботу сайту (лендінг) з публікаціями для туриста для міста Рахів. З використанням власного API.
+Проект візуалізує роботу сайту (лендінг) з публікаціями для туриста для міста **Рахів**. З використанням власного **API**.
 
 #
 ## Screenshots
@@ -27,20 +27,21 @@ The project visualizes the work of the site (landing) with publications for tour
 #
 ## Technologies used
 <b>EN:</b>
-- Using Bootstrap (front-end framework)
-- Using a third-party template for site layout (built on Bootstrap)
-- Using a MySQL database
-- Creating your own API
-- Authorization through Google
+- Using **Bootstrap** (front-end framework)
+- Using a third-party template for site layout (built on **Bootstrap**)
+- Using a **MySQL** database
+- Creating your own **API**
+- Authorization through **Google**
 - Search for information and navigation on the site
 
 <b>UA:</b>
-- Використання Bootstrap (front-end framework)
-- Використання стороннього шаблону для макета сайту (на основі Bootstrap)
-- Використання бази даних MySQL
-- Створення власного API
-- Авторизація через Google
+- Використання **Bootstrap** (front-end framework)
+- Використання стороннього шаблону для макета сайту (на основі **Bootstrap**)
+- Використання бази даних **MySQL**
+- Створення власного **API**
+- Авторизація через **Google**
 - Пошук інформації та навігація по сайту
+
 #
 ## License
 ```
