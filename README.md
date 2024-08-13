@@ -27,17 +27,23 @@ The project visualizes the work of the site (landing) with publications for tour
 #
 ## Technologies used
 <b>EN:</b>
-- Using **Bootstrap** (front-end framework)
-- Using a third-party template for site layout (built on **Bootstrap**)
+- Using [**Bootstrap**](https://getbootstrap.com) (front-end framework)
+- Using a third-party template for site layout (built on [**Bootstrap**](https://getbootstrap.com))
+- Using the library [**jQuery**](https://jquery.com)
+- Using the ***Cookie*** system
 - Using a **MySQL** database
+- Using the library [**SweetAlert2**](https://sweetalert2.github.io)
 - Creating your own **API**
 - Authorization through **Google**
 - Search for information and navigation on the site
 
 <b>UA:</b>
-- Використання **Bootstrap** (front-end framework)
-- Використання стороннього шаблону для макета сайту (на основі **Bootstrap**)
+- Використання [**Bootstrap**](https://getbootstrap.com) (front-end framework)
+- Використання стороннього шаблону для макета сайту (на основі [**Bootstrap**](https://getbootstrap.com))
+- Використання бібліотеки [**jQuery**](https://jquery.com)
+- Використання системи ***Cookie***
 - Використання бази даних **MySQL**
+- Використання бібліотеки [**SweetAlert2**](https://sweetalert2.github.io)
 - Створення власного **API**
 - Авторизація через **Google**
 - Пошук інформації та навігація по сайту
